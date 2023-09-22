@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\bin\Debug\net6.0\Hotel_Reservas.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\bin\Debug\net6.0\Hotel_Reservas.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\bin\Debug\net6.0\Hotel_Reservas.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\bin\Debug\net6.0\Hotel_Reservas.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\bin\Debug\net6.0\Hotel_Reservas.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\refint\Hotel_Reservas.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\Hotel_Reservas.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Hotel_Ex\Hotel_Reservas\obj\Debug\net6.0\ref\Hotel_Reservas.dll
